@@ -1,0 +1,266 @@
+no;immigr;emo;p_harm;tone_eth;ppage;ppeducat;ppgender;ppincimp;hs;sc;ba;female
+1;0;0.026415094;6;0;45;high school;male;13;TRUE;FALSE;FALSE;FALSE
+2;1;-0.973584906;3;0;73;bachelor's degree or higher;male;16;FALSE;FALSE;TRUE;FALSE
+3;1;1.026415094;7;0;53;some college;female;3;FALSE;TRUE;FALSE;TRUE
+4;0;2.026415094;8;1;45;high school;male;14;TRUE;FALSE;FALSE;FALSE
+5;2;-1.973584906;5;0;55;some college;female;12;FALSE;TRUE;FALSE;TRUE
+6;0;-1.973584906;6;1;85;high school;female;3;TRUE;FALSE;FALSE;TRUE
+7;0;3.026415094;8;1;58;high school;female;10;TRUE;FALSE;FALSE;TRUE
+8;0;1.026415094;7;0;53;some college;male;9;FALSE;TRUE;FALSE;FALSE
+9;1;1.026415094;5;1;52;some college;female;14;FALSE;TRUE;FALSE;TRUE
+10;2;-3.973584906;2;0;42;some college;male;15;FALSE;TRUE;FALSE;FALSE
+11;0;4.026415094;8;0;38;bachelor's degree or higher;female;9;FALSE;FALSE;TRUE;TRUE
+12;0;2.026415094;8;0;38;high school;male;6;TRUE;FALSE;FALSE;FALSE
+13;1;1.026415094;6;0;26;bachelor's degree or higher;female;10;FALSE;FALSE;TRUE;TRUE
+14;0;3.026415094;8;1;52;some college;male;11;FALSE;TRUE;FALSE;FALSE
+15;2;-3.973584906;3;1;48;some college;male;19;FALSE;TRUE;FALSE;FALSE
+16;0;5.026415094;8;0;62;high school;female;10;TRUE;FALSE;FALSE;TRUE
+17;0;2.026415094;8;1;41;less than high school;female;7;FALSE;FALSE;FALSE;TRUE
+18;0;-0.973584906;6;0;54;high school;male;11;TRUE;FALSE;FALSE;FALSE
+19;0;1.026415094;7;1;69;high school;female;9;TRUE;FALSE;FALSE;TRUE
+20;3;-0.973584906;6;1;71;less than high school;male;6;FALSE;FALSE;FALSE;FALSE
+21;2;-2.973584906;5;0;62;some college;male;14;FALSE;TRUE;FALSE;FALSE
+22;1;-3.973584906;6;0;41;some college;male;13;FALSE;TRUE;FALSE;FALSE
+23;0;0.026415094;7;0;60;high school;female;11;TRUE;FALSE;FALSE;TRUE
+24;0;-0.973584906;8;0;62;some college;male;17;FALSE;TRUE;FALSE;FALSE
+25;0;0.026415094;5;0;31;bachelor's degree or higher;male;13;FALSE;FALSE;TRUE;FALSE
+26;2;-2.973584906;2;0;50;some college;female;13;FALSE;TRUE;FALSE;TRUE
+27;0;2.026415094;5;0;48;high school;male;7;TRUE;FALSE;FALSE;FALSE
+28;2;-0.973584906;4;0;29;some college;male;10;FALSE;TRUE;FALSE;FALSE
+29;0;2.026415094;5;0;64;high school;female;5;TRUE;FALSE;FALSE;TRUE
+30;0;-2.973584906;6;0;65;high school;female;12;TRUE;FALSE;FALSE;TRUE
+31;0;5.026415094;8;0;66;less than high school;female;4;FALSE;FALSE;FALSE;TRUE
+32;0;4.026415094;8;1;68;high school;female;9;TRUE;FALSE;FALSE;TRUE
+33;1;-0.973584906;6;0;43;high school;female;15;TRUE;FALSE;FALSE;TRUE
+34;1;0.026415094;5;0;57;bachelor's degree or higher;female;12;FALSE;FALSE;TRUE;TRUE
+35;0;2.026415094;4;0;41;high school;male;11;TRUE;FALSE;FALSE;FALSE
+36;1;0.026415094;7;0;85;bachelor's degree or higher;male;13;FALSE;FALSE;TRUE;FALSE
+37;0;1.026415094;8;0;70;bachelor's degree or higher;male;15;FALSE;FALSE;TRUE;FALSE
+38;0;1.026415094;6;0;65;bachelor's degree or higher;male;14;FALSE;FALSE;TRUE;FALSE
+39;0;4.026415094;8;0;67;less than high school;female;11;FALSE;FALSE;FALSE;TRUE
+40;2;-0.973584906;5;1;68;some college;female;9;FALSE;TRUE;FALSE;TRUE
+41;2;-1.973584906;5;0;64;some college;male;13;FALSE;TRUE;FALSE;FALSE
+42;0;3.026415094;8;1;37;some college;male;13;FALSE;TRUE;FALSE;FALSE
+43;0;3.026415094;7;0;45;high school;female;7;TRUE;FALSE;FALSE;TRUE
+44;0;2.026415094;7;0;81;less than high school;female;14;FALSE;FALSE;FALSE;TRUE
+45;1;-0.973584906;6;0;51;high school;female;10;TRUE;FALSE;FALSE;TRUE
+46;0;3.026415094;8;1;53;some college;male;12;FALSE;TRUE;FALSE;FALSE
+47;0;-0.973584906;5;0;62;high school;female;9;TRUE;FALSE;FALSE;TRUE
+48;0;2.026415094;8;0;42;less than high school;male;8;FALSE;FALSE;FALSE;FALSE
+49;0;1.026415094;8;1;71;some college;female;12;FALSE;TRUE;FALSE;TRUE
+50;0;4.026415094;8;1;56;high school;male;11;TRUE;FALSE;FALSE;FALSE
+51;0;3.026415094;5;1;67;less than high school;female;8;FALSE;FALSE;FALSE;TRUE
+52;2;0.026415094;6;0;77;some college;female;6;FALSE;TRUE;FALSE;TRUE
+53;0;4.026415094;7;1;24;some college;female;15;FALSE;TRUE;FALSE;TRUE
+54;2;0.026415094;5;0;42;high school;male;3;TRUE;FALSE;FALSE;FALSE
+55;2;-3.973584906;4;0;25;bachelor's degree or higher;female;11;FALSE;FALSE;TRUE;TRUE
+56;0;1.026415094;6;1;60;high school;female;12;TRUE;FALSE;FALSE;TRUE
+57;3;3.026415094;8;1;43;some college;male;14;FALSE;TRUE;FALSE;FALSE
+58;1;2.026415094;6;1;60;some college;male;6;FALSE;TRUE;FALSE;FALSE
+59;0;4.026415094;7;0;31;high school;male;11;TRUE;FALSE;FALSE;FALSE
+60;1;0.026415094;6;0;47;some college;female;13;FALSE;TRUE;FALSE;TRUE
+61;2;-3.973584906;2;1;32;bachelor's degree or higher;female;10;FALSE;FALSE;TRUE;TRUE
+62;1;1.026415094;7;0;66;some college;male;8;FALSE;TRUE;FALSE;FALSE
+63;0;-0.973584906;8;0;44;high school;female;15;TRUE;FALSE;FALSE;TRUE
+64;1;-0.973584906;4;0;46;high school;male;17;TRUE;FALSE;FALSE;FALSE
+65;2;-3.973584906;3;0;41;high school;female;10;TRUE;FALSE;FALSE;TRUE
+66;1;0.026415094;4;0;75;high school;female;9;TRUE;FALSE;FALSE;TRUE
+67;0;5.026415094;8;1;53;bachelor's degree or higher;male;10;FALSE;FALSE;TRUE;FALSE
+68;2;-3.973584906;4;0;60;bachelor's degree or higher;male;12;FALSE;FALSE;TRUE;FALSE
+69;2;-2.973584906;6;0;75;high school;female;2;TRUE;FALSE;FALSE;TRUE
+70;0;5.026415094;8;0;45;high school;male;9;TRUE;FALSE;FALSE;FALSE
+71;0;5.026415094;8;0;69;less than high school;female;5;FALSE;FALSE;FALSE;TRUE
+72;1;-0.973584906;4;0;67;high school;female;15;TRUE;FALSE;FALSE;TRUE
+73;2;-1.973584906;5;0;20;high school;male;9;TRUE;FALSE;FALSE;FALSE
+74;2;-0.973584906;4;1;43;bachelor's degree or higher;male;16;FALSE;FALSE;TRUE;FALSE
+75;0;2.026415094;8;0;32;some college;male;10;FALSE;TRUE;FALSE;FALSE
+76;1;-1.973584906;4;0;39;high school;male;12;TRUE;FALSE;FALSE;FALSE
+77;2;-2.973584906;3;0;53;bachelor's degree or higher;female;13;FALSE;FALSE;TRUE;TRUE
+78;0;5.026415094;8;0;57;some college;female;2;FALSE;TRUE;FALSE;TRUE
+79;1;1.026415094;7;0;62;high school;female;7;TRUE;FALSE;FALSE;TRUE
+80;0;2.026415094;8;0;69;high school;female;7;TRUE;FALSE;FALSE;TRUE
+81;0;0.026415094;6;0;44;high school;female;13;TRUE;FALSE;FALSE;TRUE
+82;0;5.026415094;8;1;57;high school;male;11;TRUE;FALSE;FALSE;FALSE
+83;2;0.026415094;4;0;27;some college;female;15;FALSE;TRUE;FALSE;TRUE
+84;2;0.026415094;5;0;82;bachelor's degree or higher;female;17;FALSE;FALSE;TRUE;TRUE
+85;1;-0.973584906;6;0;84;high school;male;12;TRUE;FALSE;FALSE;FALSE
+86;2;-1.973584906;6;0;54;some college;female;13;FALSE;TRUE;FALSE;TRUE
+87;0;-2.973584906;6;0;36;less than high school;male;11;FALSE;FALSE;FALSE;FALSE
+88;0;5.026415094;8;1;47;some college;male;13;FALSE;TRUE;FALSE;FALSE
+89;0;-3.973584906;6;1;28;bachelor's degree or higher;female;12;FALSE;FALSE;TRUE;TRUE
+90;0;-2.973584906;8;0;42;high school;female;14;TRUE;FALSE;FALSE;TRUE
+91;0;0.026415094;8;0;60;high school;male;6;TRUE;FALSE;FALSE;FALSE
+92;1;-3.973584906;4;1;55;bachelor's degree or higher;male;15;FALSE;FALSE;TRUE;FALSE
+93;0;2.026415094;7;0;55;high school;female;6;TRUE;FALSE;FALSE;TRUE
+94;0;5.026415094;8;0;61;some college;male;12;FALSE;TRUE;FALSE;FALSE
+95;2;-1.973584906;2;0;84;high school;female;11;TRUE;FALSE;FALSE;TRUE
+96;3;3.026415094;8;0;45;high school;female;3;TRUE;FALSE;FALSE;TRUE
+97;1;1.026415094;8;1;67;some college;male;7;FALSE;TRUE;FALSE;FALSE
+98;0;4.026415094;8;0;24;some college;male;12;FALSE;TRUE;FALSE;FALSE
+99;0;3.026415094;7;0;64;less than high school;male;11;FALSE;FALSE;FALSE;FALSE
+100;0;3.026415094;3;1;72;high school;female;7;TRUE;FALSE;FALSE;TRUE
+101;3;5.026415094;8;0;40;high school;female;4;TRUE;FALSE;FALSE;TRUE
+102;0;2.026415094;8;0;35;bachelor's degree or higher;female;11;FALSE;FALSE;TRUE;TRUE
+103;0;5.026415094;8;1;69;high school;female;8;TRUE;FALSE;FALSE;TRUE
+104;0;4.026415094;7;1;30;less than high school;female;6;FALSE;FALSE;FALSE;TRUE
+105;1;1.026415094;8;0;45;high school;female;7;TRUE;FALSE;FALSE;TRUE
+106;2;-3.973584906;4;0;35;some college;male;9;FALSE;TRUE;FALSE;FALSE
+107;1;3.026415094;8;0;47;high school;male;11;TRUE;FALSE;FALSE;FALSE
+108;2;-1.973584906;4;0;53;some college;male;11;FALSE;TRUE;FALSE;FALSE
+109;2;2.026415094;6;0;75;high school;male;4;TRUE;FALSE;FALSE;FALSE
+110;1;1.026415094;6;1;70;high school;female;13;TRUE;FALSE;FALSE;TRUE
+111;0;0.026415094;8;1;56;high school;female;8;TRUE;FALSE;FALSE;TRUE
+112;1;1.026415094;8;0;70;less than high school;female;7;FALSE;FALSE;FALSE;TRUE
+113;2;-2.973584906;3;0;35;bachelor's degree or higher;male;11;FALSE;FALSE;TRUE;FALSE
+114;0;5.026415094;6;1;54;bachelor's degree or higher;female;11;FALSE;FALSE;TRUE;TRUE
+115;2;-1.973584906;6;0;76;bachelor's degree or higher;male;12;FALSE;FALSE;TRUE;FALSE
+116;0;2.026415094;6;1;65;high school;female;13;TRUE;FALSE;FALSE;TRUE
+117;2;-1.973584906;4;0;22;high school;male;12;TRUE;FALSE;FALSE;FALSE
+118;0;1.026415094;8;0;28;high school;male;13;TRUE;FALSE;FALSE;FALSE
+119;1;-3.973584906;5;0;26;bachelor's degree or higher;male;11;FALSE;FALSE;TRUE;FALSE
+120;0;-1.973584906;6;1;67;high school;male;13;TRUE;FALSE;FALSE;FALSE
+121;1;-1.973584906;4;0;58;high school;male;13;TRUE;FALSE;FALSE;FALSE
+122;1;-0.973584906;3;0;34;some college;female;16;FALSE;TRUE;FALSE;TRUE
+123;2;-1.973584906;6;0;29;bachelor's degree or higher;female;1;FALSE;FALSE;TRUE;TRUE
+124;0;3.026415094;6;0;61;less than high school;male;13;FALSE;FALSE;FALSE;FALSE
+125;0;4.026415094;8;0;58;some college;female;6;FALSE;TRUE;FALSE;TRUE
+126;2;-1.973584906;4;1;46;some college;female;10;FALSE;TRUE;FALSE;TRUE
+127;0;1.026415094;6;0;73;less than high school;female;6;FALSE;FALSE;FALSE;TRUE
+128;3;-3.973584906;3;0;23;bachelor's degree or higher;male;1;FALSE;FALSE;TRUE;FALSE
+129;1;-2.973584906;6;0;19;high school;male;15;TRUE;FALSE;FALSE;FALSE
+130;2;-2.973584906;4;0;35;some college;male;8;FALSE;TRUE;FALSE;FALSE
+131;1;-2.973584906;5;0;29;bachelor's degree or higher;male;19;FALSE;FALSE;TRUE;FALSE
+132;1;-3.973584906;3;0;53;bachelor's degree or higher;male;8;FALSE;FALSE;TRUE;FALSE
+133;1;0.026415094;6;0;72;bachelor's degree or higher;male;12;FALSE;FALSE;TRUE;FALSE
+134;3;-1.973584906;4;0;36;bachelor's degree or higher;male;14;FALSE;FALSE;TRUE;FALSE
+135;1;4.026415094;8;1;26;less than high school;male;5;FALSE;FALSE;FALSE;FALSE
+136;0;0.026415094;8;0;46;bachelor's degree or higher;female;13;FALSE;FALSE;TRUE;TRUE
+137;0;2.026415094;8;0;31;high school;male;6;TRUE;FALSE;FALSE;FALSE
+138;0;1.026415094;7;0;70;high school;female;1;TRUE;FALSE;FALSE;TRUE
+139;1;0.026415094;6;0;65;bachelor's degree or higher;male;13;FALSE;FALSE;TRUE;FALSE
+140;2;-2.973584906;4;0;69;less than high school;female;1;FALSE;FALSE;FALSE;TRUE
+141;2;-2.973584906;4;0;72;bachelor's degree or higher;male;11;FALSE;FALSE;TRUE;FALSE
+142;0;5.026415094;8;1;71;less than high school;female;13;FALSE;FALSE;FALSE;TRUE
+143;1;-2.973584906;6;0;62;some college;male;12;FALSE;TRUE;FALSE;FALSE
+144;1;0.026415094;5;0;37;bachelor's degree or higher;male;13;FALSE;FALSE;TRUE;FALSE
+145;1;-3.973584906;6;0;36;high school;female;5;TRUE;FALSE;FALSE;TRUE
+146;1;-2.973584906;4;0;47;some college;female;9;FALSE;TRUE;FALSE;TRUE
+147;1;-1.973584906;4;0;47;bachelor's degree or higher;male;16;FALSE;FALSE;TRUE;FALSE
+148;1;-3.973584906;3;1;28;bachelor's degree or higher;male;4;FALSE;FALSE;TRUE;FALSE
+149;2;-1.973584906;6;0;34;bachelor's degree or higher;female;11;FALSE;FALSE;TRUE;TRUE
+150;2;-3.973584906;4;0;69;bachelor's degree or higher;male;10;FALSE;FALSE;TRUE;FALSE
+151;1;3.026415094;8;0;47;high school;male;12;TRUE;FALSE;FALSE;FALSE
+152;0;4.026415094;8;1;73;high school;male;11;TRUE;FALSE;FALSE;FALSE
+153;2;-3.973584906;3;0;63;high school;female;10;TRUE;FALSE;FALSE;TRUE
+154;2;0.026415094;4;0;33;less than high school;male;1;FALSE;FALSE;FALSE;FALSE
+155;2;0.026415094;4;1;42;high school;female;6;TRUE;FALSE;FALSE;TRUE
+156;0;-1.973584906;6;0;43;high school;female;7;TRUE;FALSE;FALSE;TRUE
+157;2;-3.973584906;4;0;50;bachelor's degree or higher;female;16;FALSE;FALSE;TRUE;TRUE
+158;1;-0.973584906;7;0;56;bachelor's degree or higher;male;10;FALSE;FALSE;TRUE;FALSE
+159;2;-0.973584906;6;0;28;some college;female;11;FALSE;TRUE;FALSE;TRUE
+160;0;1.026415094;8;1;44;some college;female;13;FALSE;TRUE;FALSE;TRUE
+161;3;-1.973584906;6;0;38;bachelor's degree or higher;female;9;FALSE;FALSE;TRUE;TRUE
+162;2;4.026415094;7;1;34;bachelor's degree or higher;female;14;FALSE;FALSE;TRUE;TRUE
+163;2;-3.973584906;3;0;56;some college;male;16;FALSE;TRUE;FALSE;FALSE
+164;2;-2.973584906;6;0;47;bachelor's degree or higher;male;11;FALSE;FALSE;TRUE;FALSE
+165;0;0.026415094;6;0;42;bachelor's degree or higher;male;7;FALSE;FALSE;TRUE;FALSE
+166;2;-2.973584906;5;0;53;some college;female;16;FALSE;TRUE;FALSE;TRUE
+167;3;-2.973584906;4;0;38;bachelor's degree or higher;female;11;FALSE;FALSE;TRUE;TRUE
+168;1;-0.973584906;4;0;50;bachelor's degree or higher;female;11;FALSE;FALSE;TRUE;TRUE
+169;1;1.026415094;7;0;21;high school;male;15;TRUE;FALSE;FALSE;FALSE
+170;1;-1.973584906;6;0;25;some college;male;18;FALSE;TRUE;FALSE;FALSE
+171;0;-1.973584906;8;0;58;high school;female;16;TRUE;FALSE;FALSE;TRUE
+172;1;-1.973584906;7;0;39;some college;male;10;FALSE;TRUE;FALSE;FALSE
+173;0;5.026415094;8;0;26;some college;female;7;FALSE;TRUE;FALSE;TRUE
+174;0;1.026415094;6;0;61;some college;female;8;FALSE;TRUE;FALSE;TRUE
+175;3;-1.973584906;4;1;29;some college;female;11;FALSE;TRUE;FALSE;TRUE
+176;0;5.026415094;7;0;39;some college;female;12;FALSE;TRUE;FALSE;TRUE
+177;0;0.026415094;6;0;40;bachelor's degree or higher;male;11;FALSE;FALSE;TRUE;FALSE
+178;2;-2.973584906;4;1;30;bachelor's degree or higher;female;11;FALSE;FALSE;TRUE;TRUE
+179;3;-3.973584906;5;0;64;bachelor's degree or higher;female;10;FALSE;FALSE;TRUE;TRUE
+180;1;3.026415094;7;0;50;less than high school;male;5;FALSE;FALSE;FALSE;FALSE
+181;0;2.026415094;8;0;33;bachelor's degree or higher;female;12;FALSE;FALSE;TRUE;TRUE
+182;0;-0.973584906;6;0;35;high school;male;9;TRUE;FALSE;FALSE;FALSE
+183;1;-0.973584906;5;1;26;bachelor's degree or higher;female;16;FALSE;FALSE;TRUE;TRUE
+184;0;3.026415094;8;1;44;some college;male;16;FALSE;TRUE;FALSE;FALSE
+185;0;-0.973584906;6;1;44;some college;male;13;FALSE;TRUE;FALSE;FALSE
+186;0;5.026415094;8;1;25;some college;male;11;FALSE;TRUE;FALSE;FALSE
+187;3;-3.973584906;4;0;44;bachelor's degree or higher;male;17;FALSE;FALSE;TRUE;FALSE
+188;0;2.026415094;8;0;51;bachelor's degree or higher;female;17;FALSE;FALSE;TRUE;TRUE
+189;1;-1.973584906;6;0;62;bachelor's degree or higher;female;14;FALSE;FALSE;TRUE;TRUE
+190;0;-3.973584906;8;0;55;bachelor's degree or higher;female;18;FALSE;FALSE;TRUE;TRUE
+191;1;-1.973584906;6;0;43;bachelor's degree or higher;male;13;FALSE;FALSE;TRUE;FALSE
+192;1;-3.973584906;3;0;53;bachelor's degree or higher;male;12;FALSE;FALSE;TRUE;FALSE
+193;1;-0.973584906;4;0;49;some college;female;10;FALSE;TRUE;FALSE;TRUE
+194;2;-1.973584906;4;0;34;some college;male;11;FALSE;TRUE;FALSE;FALSE
+195;0;2.026415094;7;0;36;high school;male;11;TRUE;FALSE;FALSE;FALSE
+196;1;-3.973584906;3;0;31;bachelor's degree or higher;male;11;FALSE;FALSE;TRUE;FALSE
+197;2;-1.973584906;5;0;57;bachelor's degree or higher;female;15;FALSE;FALSE;TRUE;TRUE
+198;3;-0.973584906;6;0;18;less than high school;female;16;FALSE;FALSE;FALSE;TRUE
+199;1;-1.973584906;6;0;37;bachelor's degree or higher;female;12;FALSE;FALSE;TRUE;TRUE
+200;3;-3.973584906;4;0;63;bachelor's degree or higher;male;16;FALSE;FALSE;TRUE;FALSE
+201;1;1.026415094;8;0;48;bachelor's degree or higher;female;16;FALSE;FALSE;TRUE;TRUE
+202;0;5.026415094;8;0;32;high school;male;13;TRUE;FALSE;FALSE;FALSE
+203;2;0.026415094;5;0;28;some college;female;9;FALSE;TRUE;FALSE;TRUE
+204;1;-0.973584906;5;0;45;high school;female;13;TRUE;FALSE;FALSE;TRUE
+205;0;0.026415094;8;1;59;some college;male;13;FALSE;TRUE;FALSE;FALSE
+206;1;4.026415094;8;0;82;high school;female;10;TRUE;FALSE;FALSE;TRUE
+207;2;-2.973584906;4;0;62;bachelor's degree or higher;female;2;FALSE;FALSE;TRUE;TRUE
+208;1;-2.973584906;5;1;35;bachelor's degree or higher;female;19;FALSE;FALSE;TRUE;TRUE
+209;3;-2.973584906;5;0;47;some college;female;15;FALSE;TRUE;FALSE;TRUE
+210;2;4.026415094;8;0;65;some college;male;15;FALSE;TRUE;FALSE;FALSE
+211;0;1.026415094;8;1;62;high school;male;13;TRUE;FALSE;FALSE;FALSE
+212;0;0.026415094;7;0;59;bachelor's degree or higher;female;18;FALSE;FALSE;TRUE;TRUE
+213;2;-0.973584906;6;0;51;bachelor's degree or higher;female;9;FALSE;FALSE;TRUE;TRUE
+214;0;1.026415094;6;1;33;high school;female;12;TRUE;FALSE;FALSE;TRUE
+215;1;2.026415094;6;1;27;some college;female;8;FALSE;TRUE;FALSE;TRUE
+216;2;-1.973584906;3;0;54;bachelor's degree or higher;female;10;FALSE;FALSE;TRUE;TRUE
+217;3;-3.973584906;2;0;58;bachelor's degree or higher;male;5;FALSE;FALSE;TRUE;FALSE
+218;2;-3.973584906;3;0;20;some college;male;3;FALSE;TRUE;FALSE;FALSE
+219;1;-3.973584906;3;0;47;bachelor's degree or higher;male;5;FALSE;FALSE;TRUE;FALSE
+220;0;3.026415094;7;0;29;high school;male;12;TRUE;FALSE;FALSE;FALSE
+221;0;5.026415094;8;0;54;high school;female;4;TRUE;FALSE;FALSE;TRUE
+222;1;0.026415094;6;1;24;bachelor's degree or higher;female;7;FALSE;FALSE;TRUE;TRUE
+223;0;5.026415094;8;0;47;high school;female;10;TRUE;FALSE;FALSE;TRUE
+224;2;0.026415094;3;0;25;some college;female;11;FALSE;TRUE;FALSE;TRUE
+225;1;-1.973584906;6;0;28;high school;male;10;TRUE;FALSE;FALSE;FALSE
+226;1;0.026415094;6;0;57;bachelor's degree or higher;male;16;FALSE;FALSE;TRUE;FALSE
+227;0;3.026415094;6;0;26;high school;male;8;TRUE;FALSE;FALSE;FALSE
+228;1;0.026415094;7;1;43;high school;male;7;TRUE;FALSE;FALSE;FALSE
+229;0;-0.973584906;6;0;35;high school;male;12;TRUE;FALSE;FALSE;FALSE
+230;2;0.026415094;5;0;29;bachelor's degree or higher;female;11;FALSE;FALSE;TRUE;TRUE
+231;1;-1.973584906;4;0;26;some college;female;14;FALSE;TRUE;FALSE;TRUE
+232;0;5.026415094;8;0;18;high school;female;15;TRUE;FALSE;FALSE;TRUE
+233;3;-3.973584906;2;0;60;bachelor's degree or higher;female;12;FALSE;FALSE;TRUE;TRUE
+234;2;-3.973584906;3;0;42;bachelor's degree or higher;female;15;FALSE;FALSE;TRUE;TRUE
+235;0;3.026415094;8;1;29;high school;female;15;TRUE;FALSE;FALSE;TRUE
+236;3;-1.973584906;4;0;57;bachelor's degree or higher;female;10;FALSE;FALSE;TRUE;TRUE
+237;0;3.026415094;8;0;53;high school;female;14;TRUE;FALSE;FALSE;TRUE
+238;1;-3.973584906;6;0;27;some college;male;6;FALSE;TRUE;FALSE;FALSE
+239;0;2.026415094;7;1;25;bachelor's degree or higher;male;8;FALSE;FALSE;TRUE;FALSE
+240;2;0.026415094;4;0;37;some college;female;7;FALSE;TRUE;FALSE;TRUE
+241;1;0.026415094;7;1;25;some college;female;12;FALSE;TRUE;FALSE;TRUE
+242;1;-2.973584906;3;1;38;bachelor's degree or higher;female;13;FALSE;FALSE;TRUE;TRUE
+243;1;-1.973584906;5;1;39;bachelor's degree or higher;female;15;FALSE;FALSE;TRUE;TRUE
+244;0;0.026415094;6;1;26;some college;male;7;FALSE;TRUE;FALSE;FALSE
+245;1;-1.973584906;3;0;45;bachelor's degree or higher;female;18;FALSE;FALSE;TRUE;TRUE
+246;0;-1.973584906;7;0;27;some college;male;13;FALSE;TRUE;FALSE;FALSE
+247;2;-3.973584906;5;0;46;high school;male;12;TRUE;FALSE;FALSE;FALSE
+248;1;-1.973584906;2;1;62;high school;male;3;TRUE;FALSE;FALSE;FALSE
+249;2;-0.973584906;5;0;44;high school;female;12;TRUE;FALSE;FALSE;TRUE
+250;1;-0.973584906;8;0;65;bachelor's degree or higher;male;9;FALSE;FALSE;TRUE;FALSE
+251;1;5.026415094;7;0;34;bachelor's degree or higher;male;8;FALSE;FALSE;TRUE;FALSE
+252;1;0.026415094;8;0;66;high school;female;11;TRUE;FALSE;FALSE;TRUE
+253;2;-3.973584906;4;0;44;high school;female;14;TRUE;FALSE;FALSE;TRUE
+254;1;0.026415094;5;1;34;high school;male;13;TRUE;FALSE;FALSE;FALSE
+255;0;4.026415094;8;0;43;some college;male;10;FALSE;TRUE;FALSE;FALSE
+256;0;1.026415094;7;0;30;high school;male;9;TRUE;FALSE;FALSE;FALSE
+257;0;5.026415094;7;1;27;some college;female;17;FALSE;TRUE;FALSE;TRUE
+258;2;1.026415094;4;1;20;high school;female;17;TRUE;FALSE;FALSE;TRUE
+259;1;3.026415094;8;0;56;high school;female;10;TRUE;FALSE;FALSE;TRUE
+260;0;3.026415094;7;0;42;high school;male;12;TRUE;FALSE;FALSE;FALSE
+261;3;0.026415094;6;0;44;bachelor's degree or higher;male;17;FALSE;FALSE;TRUE;FALSE
+262;3;-0.973584906;6;0;28;bachelor's degree or higher;female;14;FALSE;FALSE;TRUE;TRUE
+263;2;-3.973584906;6;0;38;bachelor's degree or higher;female;14;FALSE;FALSE;TRUE;TRUE
+264;0;2.026415094;7;1;29;bachelor's degree or higher;male;10;FALSE;FALSE;TRUE;FALSE
+265;2;-3.973584906;2;0;52;some college;female;1;FALSE;TRUE;FALSE;TRUE
