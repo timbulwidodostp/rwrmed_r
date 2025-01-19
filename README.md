@@ -1,6 +1,8 @@
 # rwrmed_r
 Regression-with-residuals (RWR) Analysis of Causal Mediation Use rwrmed With (In) R Software
 
+https://www.youtube.com/watch?v=xjnCQxhxlnM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
